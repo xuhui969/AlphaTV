@@ -6,4 +6,4 @@
 [![Total](https://shields.io/github/downloads/o0HalfLife0o/AlphaTV/total?logo=Bookmeter&label=Counts&logoColor=yellow&color=yellow)](https://github.com/o0HalfLife0o/AlphaTV/releases)
 
 + Upstream Code: [FongMi/TV](https://github.com/FongMi/TV)
-+ Updated Commit: 0a2595f3e0f28657d543976e51cbe4bf88ce7853
++ Updated Commit: d1e689cdd8bd40b48ea1dee25a48d2d3e8fdc1f2
